@@ -13,7 +13,7 @@ Package.onUse(function(api) {
   api.use('cosmos:browserify@0.8.3', 'client');
   api.addFiles('package.browserify.js', 'client');
   api.addFiles('package.browserify.options.json', 'client');
-  api.export('Dropzone');
+  api.export('Swipeable');
 });
 
 
