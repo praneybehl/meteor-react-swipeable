@@ -1,7 +1,7 @@
 Package.describe({
   name: 'praneybehl:react-swipeable',
   version: '3.0.2',
-  summary: 'React swipable events component packaged for Meteor',
+  summary: 'React swipeable events component packaged for Meteor',
   git: 'https://github.com/praneybehl/meteor-react-swipeable',
   documentation: 'README.md'
 });
