@@ -3,6 +3,8 @@ React-Swipeable
 
 React Swipeable events component packaged for Meteor.
 
+This package is a wrapper for [React-Swipeable](https://github.com/dogfessional/react-swipeable)
+
 ### Adding it to your project
 
 ~~~
